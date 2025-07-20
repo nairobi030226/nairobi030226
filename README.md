@@ -9,8 +9,8 @@
   <br><br>
   More about me:  
   <a href="https://www.linkedin.com/in/nairobi-garc%C3%ADa-8b3685354/">LinkedIn</a>,
-  <a href="mailto:nairobig759@gmail.com">Send me an Email</a>, or
-  <a href="https://revistatecnologicacea.mx/revista27-2/"> Read my article</a>.
+  <a href="https://revistatecnologicacea.mx/revista27-2/">Read my article</a> or
+  <a href="mailto:nairobig759@gmail.com">Send me an Email</a>.
 </p>
 
 <p align="center">
