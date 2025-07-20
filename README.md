@@ -5,7 +5,7 @@
   <img src="https://watermelon.crd.co/assets/images/gallery01/904808c8.gif?v=bc28efca" width="27px">
   <br><br>
   I'm Nairobi. A Computer Systems Engineering student interested in <b>web development</b>, <b>programming</b>,
-  <b>research</b> and <b>graphic design</b>.
+   <br><b>research</b> and <b>graphic design</b>.
   <br><br>
   More about me:  
   <a href="https://www.linkedin.com/in/nairobi-garc%C3%ADa-8b3685354/">LinkedIn</a>, or 
